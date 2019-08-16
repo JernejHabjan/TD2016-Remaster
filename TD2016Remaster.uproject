@@ -368,6 +368,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"HTML5"
+		"WindowsNoEditor"
 	]
 }
